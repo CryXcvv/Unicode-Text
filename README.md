@@ -1,2 +1,2 @@
 # Unicode-Text
-Display Unicode Text For Minecraft Bedrock
+Display Unicode Text For Minecraft Bedrock!
