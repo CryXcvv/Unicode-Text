@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "NpcText",
+    "description": "Npc text for Clusster",
+    "uuid": "fa7f7f03-d66f-3441-b18e-41c844f9d485",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ebae0c6e-3af1-cd50-fd59-61c69f155a9b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
